@@ -1,9 +1,857 @@
 {
   "info" : {
-    "version" : 1,
-    "author" : "xcode"
+    "author" : "xcode",
+    "version" : 1
   },
   "properties" : {
     "grid-size" : "regular"
-  }
+  },
+  "stickers" : [
+    {
+      "filename" : "neocat__w_.sticker"
+    },
+    {
+      "filename" : "neocat_0_0.sticker"
+    },
+    {
+      "filename" : "neocat_3c.sticker"
+    },
+    {
+      "filename" : "neocat_amogus.sticker"
+    },
+    {
+      "filename" : "neocat_angel_pleading.sticker"
+    },
+    {
+      "filename" : "neocat_angel.sticker"
+    },
+    {
+      "filename" : "neocat_angry.sticker"
+    },
+    {
+      "filename" : "neocat_approve.sticker"
+    },
+    {
+      "filename" : "neocat_astronaut_gun.sticker"
+    },
+    {
+      "filename" : "neocat_astronaut.sticker"
+    },
+    {
+      "filename" : "neocat_aww.sticker"
+    },
+    {
+      "filename" : "neocat_baa.sticker"
+    },
+    {
+      "filename" : "neocat_blank.sticker"
+    },
+    {
+      "filename" : "neocat_blep.sticker"
+    },
+    {
+      "filename" : "neocat_blush_hide.sticker"
+    },
+    {
+      "filename" : "neocat_blush.sticker"
+    },
+    {
+      "filename" : "neocat_bongo_down.sticker"
+    },
+    {
+      "filename" : "neocat_bongo_up.sticker"
+    },
+    {
+      "filename" : "neocat_book_owo.sticker"
+    },
+    {
+      "filename" : "neocat_book.sticker"
+    },
+    {
+      "filename" : "neocat_boop_blep.sticker"
+    },
+    {
+      "filename" : "neocat_boop_blush.sticker"
+    },
+    {
+      "filename" : "neocat_boop_cute.sticker"
+    },
+    {
+      "filename" : "neocat_boop_googly.sticker"
+    },
+    {
+      "filename" : "neocat_boop_happy.sticker"
+    },
+    {
+      "filename" : "neocat_boop_nervous.sticker"
+    },
+    {
+      "filename" : "neocat_boop_owo.sticker"
+    },
+    {
+      "filename" : "neocat_boop_woozy.sticker"
+    },
+    {
+      "filename" : "neocat_boop.sticker"
+    },
+    {
+      "filename" : "neocat_bottom.sticker"
+    },
+    {
+      "filename" : "neocat_box.sticker"
+    },
+    {
+      "filename" : "neocat_catmode.sticker"
+    },
+    {
+      "filename" : "neocat_cofe.sticker"
+    },
+    {
+      "filename" : "neocat_comfy__w_.sticker"
+    },
+    {
+      "filename" : "neocat_comfy_happy.sticker"
+    },
+    {
+      "filename" : "neocat_comfy_mug.sticker"
+    },
+    {
+      "filename" : "neocat_comfy_sip.sticker"
+    },
+    {
+      "filename" : "neocat_comfy.sticker"
+    },
+    {
+      "filename" : "neocat_confused.sticker"
+    },
+    {
+      "filename" : "neocat_cool_fingerguns.sticker"
+    },
+    {
+      "filename" : "neocat_cool.sticker"
+    },
+    {
+      "filename" : "neocat_cry_loud.sticker"
+    },
+    {
+      "filename" : "neocat_cry.sticker"
+    },
+    {
+      "filename" : "neocat_cute_reach.sticker"
+    },
+    {
+      "filename" : "neocat_cute.sticker"
+    },
+    {
+      "filename" : "neocat_devil.sticker"
+    },
+    {
+      "filename" : "neocat_dizzy.sticker"
+    },
+    {
+      "filename" : "neocat_drowsy.sticker"
+    },
+    {
+      "filename" : "neocat_evil_3c.sticker"
+    },
+    {
+      "filename" : "neocat_evil.sticker"
+    },
+    {
+      "filename" : "neocat_facepalm.sticker"
+    },
+    {
+      "filename" : "neocat_fingerguns.sticker"
+    },
+    {
+      "filename" : "neocat_flag_ace.sticker"
+    },
+    {
+      "filename" : "neocat_flag_agender.sticker"
+    },
+    {
+      "filename" : "neocat_flag_ambiamorous.sticker"
+    },
+    {
+      "filename" : "neocat_flag_androgyne.sticker"
+    },
+    {
+      "filename" : "neocat_flag_aro.sticker"
+    },
+    {
+      "filename" : "neocat_flag_aroflux.sticker"
+    },
+    {
+      "filename" : "neocat_flag_bi.sticker"
+    },
+    {
+      "filename" : "neocat_flag_bigender.sticker"
+    },
+    {
+      "filename" : "neocat_flag_demiace.sticker"
+    },
+    {
+      "filename" : "neocat_flag_demiaro.sticker"
+    },
+    {
+      "filename" : "neocat_flag_demiflux.sticker"
+    },
+    {
+      "filename" : "neocat_flag_demigay.sticker"
+    },
+    {
+      "filename" : "neocat_flag_demigirl.sticker"
+    },
+    {
+      "filename" : "neocat_flag_demigiuy.sticker"
+    },
+    {
+      "filename" : "neocat_flag_demiguy.sticker"
+    },
+    {
+      "filename" : "neocat_flag_demilesbian.sticker"
+    },
+    {
+      "filename" : "neocat_flag_deminb.sticker"
+    },
+    {
+      "filename" : "neocat_flag_disabled.sticker"
+    },
+    {
+      "filename" : "neocat_flag_finsexual.sticker"
+    },
+    {
+      "filename" : "neocat_flag_gay.sticker"
+    },
+    {
+      "filename" : "neocat_flag_genderfluid.sticker"
+    },
+    {
+      "filename" : "neocat_flag_intersex.sticker"
+    },
+    {
+      "filename" : "neocat_flag_lesbian.sticker"
+    },
+    {
+      "filename" : "neocat_flag_nb.sticker"
+    },
+    {
+      "filename" : "neocat_flag_pan.sticker"
+    },
+    {
+      "filename" : "neocat_flag_plural.sticker"
+    },
+    {
+      "filename" : "neocat_flag_polyam.sticker"
+    },
+    {
+      "filename" : "neocat_flag_salmacian.sticker"
+    },
+    {
+      "filename" : "neocat_flag_sapphic.sticker"
+    },
+    {
+      "filename" : "neocat_flag_trans.sticker"
+    },
+    {
+      "filename" : "neocat_floof__w_.sticker"
+    },
+    {
+      "filename" : "neocat_floof_angel.sticker"
+    },
+    {
+      "filename" : "neocat_floof_cute.sticker"
+    },
+    {
+      "filename" : "neocat_floof_devil.sticker"
+    },
+    {
+      "filename" : "neocat_floof_happy.sticker"
+    },
+    {
+      "filename" : "neocat_floof_mug.sticker"
+    },
+    {
+      "filename" : "neocat_floof_owo.sticker"
+    },
+    {
+      "filename" : "neocat_floof_reach.sticker"
+    },
+    {
+      "filename" : "neocat_floof_sad_reach.sticker"
+    },
+    {
+      "filename" : "neocat_floof_sad.sticker"
+    },
+    {
+      "filename" : "neocat_floof.sticker"
+    },
+    {
+      "filename" : "neocat_flop__w_.sticker"
+    },
+    {
+      "filename" : "neocat_flop_blep.sticker"
+    },
+    {
+      "filename" : "neocat_flop_happy.sticker"
+    },
+    {
+      "filename" : "neocat_flop_sleep.sticker"
+    },
+    {
+      "filename" : "neocat_flop.sticker"
+    },
+    {
+      "filename" : "neocat_flush.sticker"
+    },
+    {
+      "filename" : "neocat_foxmask.sticker"
+    },
+    {
+      "filename" : "neocat_glare_sob.sticker"
+    },
+    {
+      "filename" : "neocat_glare.sticker"
+    },
+    {
+      "filename" : "neocat_glasses.sticker"
+    },
+    {
+      "filename" : "neocat_googly_blep.sticker"
+    },
+    {
+      "filename" : "neocat_googly_drool.sticker"
+    },
+    {
+      "filename" : "neocat_googly_shocked.sticker"
+    },
+    {
+      "filename" : "neocat_googly_woozy.sticker"
+    },
+    {
+      "filename" : "neocat_googly.sticker"
+    },
+    {
+      "filename" : "neocat_gun.sticker"
+    },
+    {
+      "filename" : "neocat_happy_blep.sticker"
+    },
+    {
+      "filename" : "neocat_happy.sticker"
+    },
+    {
+      "filename" : "neocat_heart.sticker"
+    },
+    {
+      "filename" : "neocat_hug_blob_heart.sticker"
+    },
+    {
+      "filename" : "neocat_hug_blob_sad.sticker"
+    },
+    {
+      "filename" : "neocat_hug_blob.sticker"
+    },
+    {
+      "filename" : "neocat_hug_bun_heart.sticker"
+    },
+    {
+      "filename" : "neocat_hug_bun_sad.sticker"
+    },
+    {
+      "filename" : "neocat_hug_bun.sticker"
+    },
+    {
+      "filename" : "neocat_hug_dragn_alt.sticker"
+    },
+    {
+      "filename" : "neocat_hug_dragn_heart.sticker"
+    },
+    {
+      "filename" : "neocat_hug_dragn_sad_alt.sticker"
+    },
+    {
+      "filename" : "neocat_hug_dragn_sad.sticker"
+    },
+    {
+      "filename" : "neocat_hug_dragn.sticker"
+    },
+    {
+      "filename" : "neocat_hug_duck_heart.sticker"
+    },
+    {
+      "filename" : "neocat_hug_duck_sad.sticker"
+    },
+    {
+      "filename" : "neocat_hug_duck.sticker"
+    },
+    {
+      "filename" : "neocat_hug_fox_heart.sticker"
+    },
+    {
+      "filename" : "neocat_hug_fox_sad.sticker"
+    },
+    {
+      "filename" : "neocat_hug_fox.sticker"
+    },
+    {
+      "filename" : "neocat_hug_haj_heart.sticker"
+    },
+    {
+      "filename" : "neocat_hug_haj_sad.sticker"
+    },
+    {
+      "filename" : "neocat_hug_haj.sticker"
+    },
+    {
+      "filename" : "neocat_hug_heart.sticker"
+    },
+    {
+      "filename" : "neocat_hug_sad.sticker"
+    },
+    {
+      "filename" : "neocat_hug.sticker"
+    },
+    {
+      "filename" : "neocat_hyper.sticker"
+    },
+    {
+      "filename" : "neocat_kirby_succ.sticker"
+    },
+    {
+      "filename" : "neocat_kirby.sticker"
+    },
+    {
+      "filename" : "neocat_kisser.sticker"
+    },
+    {
+      "filename" : "neocat_knife.sticker"
+    },
+    {
+      "filename" : "neocat_knives.sticker"
+    },
+    {
+      "filename" : "neocat_laptop_notice.sticker"
+    },
+    {
+      "filename" : "neocat_laptop_owo.sticker"
+    },
+    {
+      "filename" : "neocat_laptop.sticker"
+    },
+    {
+      "filename" : "neocat_laugh_nervous.sticker"
+    },
+    {
+      "filename" : "neocat_laugh_sweat.sticker"
+    },
+    {
+      "filename" : "neocat_laugh_tears.sticker"
+    },
+    {
+      "filename" : "neocat_laugh.sticker"
+    },
+    {
+      "filename" : "neocat_lul.sticker"
+    },
+    {
+      "filename" : "neocat_magnify.sticker"
+    },
+    {
+      "filename" : "neocat_melt_2.sticker"
+    },
+    {
+      "filename" : "neocat_melt_3.sticker"
+    },
+    {
+      "filename" : "neocat_melt_blep.sticker"
+    },
+    {
+      "filename" : "neocat_melt_blush.sticker"
+    },
+    {
+      "filename" : "neocat_melt_happy.sticker"
+    },
+    {
+      "filename" : "neocat_melt_reach.sticker"
+    },
+    {
+      "filename" : "neocat_melt_sob_heart.sticker"
+    },
+    {
+      "filename" : "neocat_melt_sob.sticker"
+    },
+    {
+      "filename" : "neocat_melt.sticker"
+    },
+    {
+      "filename" : "neocat_mug__w_.sticker"
+    },
+    {
+      "filename" : "neocat_mug_drink.sticker"
+    },
+    {
+      "filename" : "neocat_mug_owo.sticker"
+    },
+    {
+      "filename" : "neocat_mug.sticker"
+    },
+    {
+      "filename" : "neocat_nervous.sticker"
+    },
+    {
+      "filename" : "neocat_nom_blob_nervous.sticker"
+    },
+    {
+      "filename" : "neocat_nom_blob.sticker"
+    },
+    {
+      "filename" : "neocat_nom_bread.sticker"
+    },
+    {
+      "filename" : "neocat_nom_bun_nervous.sticker"
+    },
+    {
+      "filename" : "neocat_nom_bun.sticker"
+    },
+    {
+      "filename" : "neocat_nom_burger.sticker"
+    },
+    {
+      "filename" : "neocat_nom_cat_nervous.sticker"
+    },
+    {
+      "filename" : "neocat_nom_cat.sticker"
+    },
+    {
+      "filename" : "neocat_nom_cookie.sticker"
+    },
+    {
+      "filename" : "neocat_nom_donut.sticker"
+    },
+    {
+      "filename" : "neocat_nom_dragn_nervous.sticker"
+    },
+    {
+      "filename" : "neocat_nom_dragn.sticker"
+    },
+    {
+      "filename" : "neocat_nom_egg.sticker"
+    },
+    {
+      "filename" : "neocat_nom_fox_nervous.sticker"
+    },
+    {
+      "filename" : "neocat_nom_fox.sticker"
+    },
+    {
+      "filename" : "neocat_nom_haj_nervous.sticker"
+    },
+    {
+      "filename" : "neocat_nom_haj.sticker"
+    },
+    {
+      "filename" : "neocat_nom_melon.sticker"
+    },
+    {
+      "filename" : "neocat_nom_pita.sticker"
+    },
+    {
+      "filename" : "neocat_nom_pizza.sticker"
+    },
+    {
+      "filename" : "neocat_nom_toblerone.sticker"
+    },
+    {
+      "filename" : "neocat_nom_verified.sticker"
+    },
+    {
+      "filename" : "neocat_nom_waffle.sticker"
+    },
+    {
+      "filename" : "neocat_notice.sticker"
+    },
+    {
+      "filename" : "neocat_o_o.sticker"
+    },
+    {
+      "filename" : "neocat_owo_blep.sticker"
+    },
+    {
+      "filename" : "neocat_owo.sticker"
+    },
+    {
+      "filename" : "neocat_pat_floof.sticker"
+    },
+    {
+      "filename" : "neocat_pat_flop.sticker"
+    },
+    {
+      "filename" : "neocat_pat_googly.sticker"
+    },
+    {
+      "filename" : "neocat_pat_happy.sticker"
+    },
+    {
+      "filename" : "neocat_pat_sad.sticker"
+    },
+    {
+      "filename" : "neocat_pat_sob.sticker"
+    },
+    {
+      "filename" : "neocat_pat_up.sticker"
+    },
+    {
+      "filename" : "neocat_pat_woozy.sticker"
+    },
+    {
+      "filename" : "neocat_pat.sticker"
+    },
+    {
+      "filename" : "neocat_peek_bread.sticker"
+    },
+    {
+      "filename" : "neocat_peek_comfy.sticker"
+    },
+    {
+      "filename" : "neocat_peek_knife.sticker"
+    },
+    {
+      "filename" : "neocat_peek_owo.sticker"
+    },
+    {
+      "filename" : "neocat_peek.sticker"
+    },
+    {
+      "filename" : "neocat_pensive.sticker"
+    },
+    {
+      "filename" : "neocat_phone.sticker"
+    },
+    {
+      "filename" : "neocat_pleading_reach.sticker"
+    },
+    {
+      "filename" : "neocat_pleading.sticker"
+    },
+    {
+      "filename" : "neocat_police.sticker"
+    },
+    {
+      "filename" : "neocat_pout.sticker"
+    },
+    {
+      "filename" : "neocat_rainbow.sticker"
+    },
+    {
+      "filename" : "neocat_reach_drool.sticker"
+    },
+    {
+      "filename" : "neocat_reach.sticker"
+    },
+    {
+      "filename" : "neocat_reject.sticker"
+    },
+    {
+      "filename" : "neocat_sad_reach.sticker"
+    },
+    {
+      "filename" : "neocat_sad.sticker"
+    },
+    {
+      "filename" : "neocat_santa.sticker"
+    },
+    {
+      "filename" : "neocat_science.sticker"
+    },
+    {
+      "filename" : "neocat_scream_angry.sticker"
+    },
+    {
+      "filename" : "neocat_scream_scared.sticker"
+    },
+    {
+      "filename" : "neocat_scream_stare.sticker"
+    },
+    {
+      "filename" : "neocat_scream.sticker"
+    },
+    {
+      "filename" : "neocat_shocked.sticker"
+    },
+    {
+      "filename" : "neocat_shy.sticker"
+    },
+    {
+      "filename" : "neocat_sign_aaa.sticker"
+    },
+    {
+      "filename" : "neocat_sign_no.sticker"
+    },
+    {
+      "filename" : "neocat_sign_nya.sticker"
+    },
+    {
+      "filename" : "neocat_sign_thx.sticker"
+    },
+    {
+      "filename" : "neocat_sign_yes.sticker"
+    },
+    {
+      "filename" : "neocat_sign_yip.sticker"
+    },
+    {
+      "filename" : "neocat_sip_glare.sticker"
+    },
+    {
+      "filename" : "neocat_sip_nervous.sticker"
+    },
+    {
+      "filename" : "neocat_sip_owo.sticker"
+    },
+    {
+      "filename" : "neocat_sip.sticker"
+    },
+    {
+      "filename" : "neocat_smol.sticker"
+    },
+    {
+      "filename" : "neocat_smug.sticker"
+    },
+    {
+      "filename" : "neocat_snuggle_fox.sticker"
+    },
+    {
+      "filename" : "neocat_snuggle.sticker"
+    },
+    {
+      "filename" : "neocat_sob.sticker"
+    },
+    {
+      "filename" : "neocat_solder_googly.sticker"
+    },
+    {
+      "filename" : "neocat_solder.sticker"
+    },
+    {
+      "filename" : "neocat_stretch_dl.sticker"
+    },
+    {
+      "filename" : "neocat_stretch_down_end.sticker"
+    },
+    {
+      "filename" : "neocat_stretch_down.sticker"
+    },
+    {
+      "filename" : "neocat_stretch_dr.sticker"
+    },
+    {
+      "filename" : "neocat_stretch_h.sticker"
+    },
+    {
+      "filename" : "neocat_stretch_left.sticker"
+    },
+    {
+      "filename" : "neocat_stretch_right.sticker"
+    },
+    {
+      "filename" : "neocat_stretch_ul.sticker"
+    },
+    {
+      "filename" : "neocat_stretch_up.sticker"
+    },
+    {
+      "filename" : "neocat_stretch_ur.sticker"
+    },
+    {
+      "filename" : "neocat_stretch_v.sticker"
+    },
+    {
+      "filename" : "neocat_surprised_pika.sticker"
+    },
+    {
+      "filename" : "neocat_surprised.sticker"
+    },
+    {
+      "filename" : "neocat_sweat.sticker"
+    },
+    {
+      "filename" : "neocat_thief.sticker"
+    },
+    {
+      "filename" : "neocat_think_anime.sticker"
+    },
+    {
+      "filename" : "neocat_think_cool.sticker"
+    },
+    {
+      "filename" : "neocat_think_googly.sticker"
+    },
+    {
+      "filename" : "neocat_think_owo.sticker"
+    },
+    {
+      "filename" : "neocat_think_woozy.sticker"
+    },
+    {
+      "filename" : "neocat_think.sticker"
+    },
+    {
+      "filename" : "neocat_thinking.sticker"
+    },
+    {
+      "filename" : "neocat_thonk.sticker"
+    },
+    {
+      "filename" : "neocat_thumbsdown.sticker"
+    },
+    {
+      "filename" : "neocat_thumbsup.sticker"
+    },
+    {
+      "filename" : "neocat_up__w_.sticker"
+    },
+    {
+      "filename" : "neocat_up_paws.sticker"
+    },
+    {
+      "filename" : "neocat_up_sleep.sticker"
+    },
+    {
+      "filename" : "neocat_up.sticker"
+    },
+    {
+      "filename" : "neocat_uwu.sticker"
+    },
+    {
+      "filename" : "neocat_verified.sticker"
+    },
+    {
+      "filename" : "neocat_vr.sticker"
+    },
+    {
+      "filename" : "neocat_what.sticker"
+    },
+    {
+      "filename" : "neocat_wink_blep.sticker"
+    },
+    {
+      "filename" : "neocat_wink.sticker"
+    },
+    {
+      "filename" : "neocat_woozy.sticker"
+    },
+    {
+      "filename" : "neocat_x_x.sticker"
+    },
+    {
+      "filename" : "neocat_yeet.sticker"
+    },
+    {
+      "filename" : "neocat_yell.sticker"
+    },
+    {
+      "filename" : "neocat.sticker"
+    }
+  ]
 }
